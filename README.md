@@ -1,0 +1,2 @@
+O curso tem sido agradável, tive um pouco de dificuldade no módulo do git, mas é porque eu acredito que deva fazer algumas atividades extras
+para melhor desenvolvimento, mas criei meu git e estou me esforçando pra alcançar o melhor resultado.
